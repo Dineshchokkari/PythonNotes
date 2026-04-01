@@ -8,3 +8,6 @@
 - [[Lists]]
 - [[Tuple]]
 - [[Dictionaries]]
+- [[Functions]]
+- [[Class and Objects]]
+- 
